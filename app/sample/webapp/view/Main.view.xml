@@ -2,5 +2,6 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
+    <Text text="Sample Code here for ID001"></Text>
     </Page>
 </mvc:View>
