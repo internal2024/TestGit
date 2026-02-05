@@ -4,5 +4,6 @@
     <Page id="page" title="{i18n>title}">
         <Text text="Test"></Text>
         <Text text="Test Fix for ID111"></Text>
+        <Text text="Test Fix for ID333"></Text>
     </Page>
 </mvc:View>
